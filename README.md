@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Vrlec
-- 👀 I’m interested in quite a few things. I like the woods, weightlifting, talking to people, caracals and cooking.
-- 🌱 I’m currently learning Angular, ADO.NET, ASP.NET and how to manipulate people, 
-- 📫 You can reach me by knocking on my door.
 - 👍🏿 That is it.
 
 (not natty)
